@@ -13,9 +13,6 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasondiazg&label=Profile%20views&color=0e75b6&style=flat" alt="jasondiazg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasondiazg" alt="jasondiazg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jasondiazg" target="blank"><img src="https://img.shields.io/twitter/follow/jasondiazg?logo=twitter&style=for-the-badge" alt="jasondiazg" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jasondiazg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jasondiazg" height="30" width="40" /></a>
@@ -31,10 +28,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jasondiazg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jasondiazg" /></a></p><br><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasondiazg&show_icons=true&locale=en&layout=compact" alt="jasondiazg" /></p><br><br><br><br><br><br><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasondiazg&show_icons=true&locale=en" alt="jasondiazg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondiazg&" alt="jasondiazg" /></p>
 
